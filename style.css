@@ -1,0 +1,133 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+.flexible {
+    display: flex;
+    padding-top: 10px;
+}
+
+.half-width {
+    width: 50%;
+    margin: 5% 3% 5% 7%;
+}
+
+.half-width img {
+    width: 90%;
+}
+
+.f-size {
+    font-size: 35px;
+    margin: 0;
+}
+
+.orange {
+    color: orange;
+}
+
+.b-left {
+    border-left: 3px solid salmon;
+    padding-left: 2%;
+}
+
+.ex-botton {
+    text-decoration: none;
+    background-image: linear-gradient(orange, salmon);
+    padding: 8px 15px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+.mission-2022 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.one-third-wtdth {
+    width: 33%;
+    padding: 2%;
+    margin: 2% 2% 0 2%;
+    border-radius: 15px;
+
+}
+
+#vission {
+    background-color: rgba(27, 219, 123, 0.26);
+}
+
+#mission {
+    background-color: rgb(203, 248, 248);
+}
+
+#goals {
+    background-color: rgba(251, 251, 200, 0.742);
+}
+
+
+.img-width {
+    width: 70%;
+}
+
+.bg-img {
+    margin-left: 2%;
+    background-image: url(images/shape-1.png);
+    background-position: left;
+    background-size: 20%;
+    background-repeat: no-repeat;
+}
+
+#img-width-100 {
+    width: 100%;
+}
+
+.tow-fith {
+    width: 40%;
+    margin: 10% 5% 0 10%;
+}
+
+.fith-three {
+    width: 60%;
+    margin-right: 5%;
+    padding-top: 15%;
+}
+
+.bg-img-right {
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 100% 90%;
+    background-size: 20%;
+}
+
+.adg {
+    width: 60%;
+    padding: 5% 3% 0 10%;
+    margin-top: 5%;
+
+}
+
+.adj-tow {
+    width: 40%;
+    padding: 10%;
+}
+
+.text-center {
+    text-align: center;
+    margin: 0;
+    padding: 2%;
+}
+
+.alain {
+    font-family: 'Satisfy', cursive;
+    margin: 0;
+}
+
+footer {
+    background-color: black;
+    color: white;
+
+}
